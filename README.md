@@ -1,6 +1,6 @@
 # A02
 
-Part 1
+__Part 1__
 
 This is a tutorial on how to create a repository on GitHub using the website and how to connect GitHub to Visual Studio Code.
 
@@ -17,17 +17,21 @@ The next section, “Configuration” first requires you to choose the visibilit
 After selecting your visibility, the next three options are optional. The first is whether you would want to add a “README” file, which allows for longer written descriptions of what is being done in your repository. The next option is whether you want to add a “.gitignore” file, which you will likely not need now, but essentially when you actually begin to write code and save it in your repository, it tells git what files you do not want saved every time you commit. Then, you will see the option to add a license to your repository which essentially explains to other people who may use your code what they can and cannot do with it.
 
 After you make the necessary selections and specifications, you can click the “Create repository” button at the bottom right-hand side of the screen. Congrats, you have made a repository using GitHub!
+
+
+
+
 ----
-Part 2
-- Branch
-- Clone
-- Commit
-- Fetch
-- GIT
-- Github
-- Merge
-- Merge Conflict
-- Push
-- Pull
-- Remote
-- Repository
+__Part 2__
+- **Branch**:
+- **Clone**:
+- **Commit**:
+- **Fetch**:
+- **GIT**:
+- **Github**:
+- **Merge**:
+- **Merge Conflict**:
+- **Push**:
+- **Pull**:
+- **Remote**:
+- **Repository**:
